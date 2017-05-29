@@ -1,3 +1,10 @@
+body{
+  display: block;
+  margin: 8px;
+  font-family: Georgia;
+  font-size: 17px;
+  color: black;
+}
 header{
   display: flex;
   font-family: Verdana;
