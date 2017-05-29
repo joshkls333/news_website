@@ -122,6 +122,17 @@ img.cookie{
   flex-direction: column;
   width: 300px;
 }
+.stories .text-content{
+  height: 250px;
+}
+h2{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Georgia;
+  font-size: 30px;
+  font-weight: bold;
+  font-style: normal;
+}
 .news-bites .bite{
   display: block;
   padding: 11px 20px;
